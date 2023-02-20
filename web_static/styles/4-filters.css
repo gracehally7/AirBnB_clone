@@ -11,8 +11,9 @@
 }
  .filters button {
     position: relative;
+    border: none;
     font-size: 18px;
-    background: #ff5a5f;
+    background-color: #ff5a5f;
     color: #ffffff;
     height: 48px;
     width: 20%;
