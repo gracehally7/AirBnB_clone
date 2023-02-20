@@ -32,10 +32,10 @@ button {
     align-items: center;
     text-align: center;
 }
-.locamenities .locations
-{
-    padding: .5rem;
-   border-right: 1px solid  #dddddd;
+.locamenities .locations{
+    height: 100%;
+    padding: 1rem;
+    border-right: 1px  solid #dddddd;
 }
 .locamenities .amenities{
     padding: 1rem;
