@@ -24,6 +24,8 @@ button {
     opacity: 90%;
 }
 .locamenities{
+    position: relative;
+    border: 1px solid;
     padding: 1rem;
     width: 25%;
     height: 100%;
@@ -31,11 +33,11 @@ button {
     justify-content: space-between;
     align-items: center;
     text-align: center;
+    overflow: hidden;
 }
 .locamenities .locations{
-    height: 100%;
     padding: 1rem;
-    border-right: 1px  solid #dddddd;
+    border: 1px  solid #dddddd;
 }
 .locamenities .amenities{
     padding: 1rem;
