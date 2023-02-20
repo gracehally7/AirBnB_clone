@@ -2,6 +2,7 @@ body{
     max-width: 100opx;
 }
 .container{
+    display: flex;
     max-width: 1000px;
     align-items: center;
     margin: 30px auto ;
